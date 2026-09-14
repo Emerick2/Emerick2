@@ -59,9 +59,3 @@
 * **API "[Yo-kai API](https://github.com/Emerick2/yo-kai-API)" (Python / JSON)** : Conception d'une API complète dédiée à la franchise *Yo-kai Watch* afin de faciliter le développement de fan-games et de projets communautaires.
 
 ---
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emerick2&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
